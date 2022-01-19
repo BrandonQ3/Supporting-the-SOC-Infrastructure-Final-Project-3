@@ -49,3 +49,10 @@ In this optional activity, you will choose a domain that you are interested in p
 * Defensive Security: Incident Response Phases I & II
 If you are unsure of which domain you would like to focus on, that's ok! You can either choose the one that you are the most comfortable discussing, or you can also complete the tasks in two or three domains.
 For each domain, you will be provided a set of interview questions. For each question, you will be prompted to think about specific aspects or tasks you completed in Project 3 that you can use to answer the question.
+
+## Submission
+Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.
+
+[Project 3 Submission.pdf](https://github.com/BrandonQ3/Supporting-the-SOC-Infrastructure-Final-Project-3/files/7900512/Project.3.Submission.pdf)
+
+
