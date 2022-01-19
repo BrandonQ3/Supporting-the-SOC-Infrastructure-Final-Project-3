@@ -55,6 +55,8 @@ For each domain, you will be provided a set of interview questions. For each que
 ## Submission
 Configured Kibana alerts to monitor WordPress installation, performed Host Discovery with Netdiscover, identified exposed ports with Nmap, enumerated site with WPScan and Nikto, identified Remote Code Execution vulnerability and used Code Injection exploit to open Reverse Shell with Ncat listener, conducted network forensic analysis with Wireshark.
 
+[Project 3 Topology.pdf](https://github.com/BrandonQ3/Supporting-the-SOC-Infrastructure-Final-Project-3/files/7900806/Project.3.Topology.pdf)
+
 [Project 3 Submission.pdf](https://github.com/BrandonQ3/Supporting-the-SOC-Infrastructure-Final-Project-3/files/7900512/Project.3.Submission.pdf)
 
 
